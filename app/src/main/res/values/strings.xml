@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="clock">CLOCK</string>
+    <string name="buttonX">X</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="artist">artist</string>
+    <string name="defaultReminder">DefaultReminder</string>
+    <string name="search">Search music by title</string>
+    <string name="MON">MON</string>
+    <string name="TUE">TUE</string>
+    <string name="WED">WED</string>
+    <string name="THU">THU</string>
+    <string name="FRI">FRI</string>
+    <string name="SAT">SAT</string>
+    <string name="SUN">SUN</string>
+    <string name="choose_track">Waiting for track</string>
+    <string name="add_music">Add track</string>
+    <string name="Music">Music</string>
+    <string name="Reminder">Reminder</string>
+    <string name="Alarm">Alarm</string>
+    <string name="Pause">Pause</string>
+    <string name="reminder_label">Reminders</string>
+    <string name="music_label">Music Player</string>
+    <string name="alarm_label">Alarms</string>
+    <string name="alarm_editor_label">Alarm Editor</string>
+    <string name="reminder_editor_label">Reminder Editor</string>
+    <string name="set_as_reminder">Set as reminder</string>
+</resources>

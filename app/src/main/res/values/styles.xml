@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/SlateBlue</item>
+        <item name="colorPrimaryDark">@color/DarkSlateBlue</item>
+        <item name="colorAccent">@color/DodgerBlue</item>
+    </style>
+
+</resources>
